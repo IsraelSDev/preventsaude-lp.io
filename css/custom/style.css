@@ -544,7 +544,7 @@ h6 {
 
 /* Dentist Header */
 .header1-bgimage {
-    background-image: url("../../images/1920x900x1.jpg");
+    background-image: url("../../images/1000x650x1.png");
 }
 .header-head .heading-padding {
 	padding-bottom: 220px;
@@ -668,7 +668,9 @@ h6 {
 /* Clinic Header */
 .header2-bgimage {
     /* background-image: url("https://mv.com.br/storage/blog/1532212022080462ec10b502078.png"); */
-    background-image: url("../../images/1920x900x1.jpg");
+    background-image: url("../../images/1000x650x1.png");
+		background-position-x: center;
+    background-position-y: top;
 }
 .header2-bgimage .heading-padding {
 	padding-bottom: 220px;
@@ -1274,7 +1276,7 @@ h6 {
 
 
 .appointment-bgimage {
-    background-image: url("../../images/1920x900x3.jpg");
+    background-image: url("../../images/banner-header.png");
 	padding-bottom: 150px;
 	padding-top: 150px;
 }
